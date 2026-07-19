@@ -1,7 +1,8 @@
+[![Typing Animation](https://waveify.onrender.com/api/typing/neon?text=%22Assalamu+alaikum%22+++I%27m+Abrar&speed=90&color=%23ff0a0a&backgroundColor=transparent&fontSize=16&fontFamily=monospace&width=400&height=60&cursor=true&type=neon&repeat=true&soundEnabled=true)](https://waveify.onrender.com/api/typing/neon?text=%22Assalamu+alaikum%22+++I%27m+Abrar&speed=90&color=%23ff0a0a&backgroundColor=transparent&fontSize=16&fontFamily=monospace&width=400&height=60&cursor=true&type=neon&repeat=true&soundEnabled=true)
 # 💫 About Me:
 🔭 **I’m currently working on** a 2D game project using Pygame<br>👯 **I’m looking to collaborate on** simple open-source Python projects or indie game jams<br>🤝 **I’m looking for help with** mastering game loops, state management, and asset integration<br>🌱 **I’m currently learning** Python fundamentals and the Pygame library<br>💬 **Ask me about** my game development journey, coding basics, or my favorite video games<br>⚡ **Fun fact** I often spend hours coding a feature just to realize a single typo broke everything!
 
-
+![Loading Animation](https://waveify.onrender.com/api/loader?type=dots&color=%23ff0000&size=50&speed=1&width=100&height=100&theme=cyberpunk&glowEffect=true&backgroundColor=transparent)                                                     
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 # 📊 GitHub Stats:
@@ -9,8 +10,7 @@
 ![](https://streak-stats.demolab.com/?user=abrarha-mim&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=abrarha-mim&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abrarha-mim&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
